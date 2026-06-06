@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//Jamie Schedule//EN
 CALNAME:Jamie Schedule
 X-WR-CALNAME:Jamie Schedule
-X-WR-CALDESC:Jamie on-call and vacation schedule — auto-updated daily from RBT calendar
+X-WR-CALDESC:Jamie on-call and vacation schedule — auto-updated daily from SkySuite calendar
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
